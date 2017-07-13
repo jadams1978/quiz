@@ -1,0 +1,8 @@
+.startquiz {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  background: cyan;
+  top: 0;
+  left: 0;
+}
